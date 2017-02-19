@@ -73,7 +73,7 @@
       "sameAs": "https://www.flickr.com/photos/77604748@N07/albums",
       "sameAs": "https://www.researchgate.net/profile/Kirsten_Siebach",
       "sameAs": "https://scholar.google.com/citations?hl=en&btnA=1&authorid=15489039706247508211&user=TU6sGpYAAAAJ",
-      "sameAs": "https://plus.google.com/+KirstenSiebach",
+      "sameAs": "https://plus.google.com/+KirstenSiebach"
     }
      </script>
 @append
