@@ -67,13 +67,15 @@
       "url": "https://kirstensiebach.com",
       "email": "kirsten.siebach@stonybrook.edu",
       "image": "https://kirstensiebach.com/uploads/ks-profile-pic.jpg",
-      "sameAs": "http://orcid.org/0000-0002-6628-6297",
-      "sameAs": "http://mars.nasa.gov/people/info.cfm?id=22897",
-      "sameAs": "https://www.linkedin.com/in/kirsten-siebach-33433985",
-      "sameAs": "https://www.flickr.com/photos/77604748@N07/albums",
-      "sameAs": "https://www.researchgate.net/profile/Kirsten_Siebach",
-      "sameAs": "https://scholar.google.com/citations?hl=en&btnA=1&authorid=15489039706247508211&user=TU6sGpYAAAAJ",
-      "sameAs": "https://plus.google.com/+KirstenSiebach"
+      "sameAs": [
+          "http://orcid.org/0000-0002-6628-6297",
+          "http://mars.nasa.gov/people/info.cfm?id=22897",
+          "https://www.linkedin.com/in/kirsten-siebach-33433985",
+          "https://www.flickr.com/photos/77604748@N07/albums",
+          "https://www.researchgate.net/profile/Kirsten_Siebach",
+          "https://scholar.google.com/citations?hl=en&btnA=1&authorid=15489039706247508211&user=TU6sGpYAAAAJ",
+          "https://plus.google.com/+KirstenSiebach"
+      ]
     }
      </script>
 @append
