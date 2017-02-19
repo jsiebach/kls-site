@@ -19,6 +19,4 @@ mix.combine([
   'resources/assets/js/jquery.bxslider/jquery.bxslider.css'
 ], 'public/css/plugins.css');
 
-if (mix.config.inProduction) {
-  mix.version();
-}
+mix.version();

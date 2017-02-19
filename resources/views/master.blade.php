@@ -10,7 +10,7 @@
     <link rel="icon" type="image/png" href="/fav.png">
     @include('partials.analytics')
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
-    <link rel="stylesheet" href="{{ asset('/css/plugins.css') }}">
+    <link rel="stylesheet" href="{{ mix('/css/plugins.css') }}">
     @yield('header-styles')
 </head>
 <body>
