@@ -91,16 +91,6 @@ trait PageTemplates
             'value' => '<br><h2>Content</h2><hr>',
         ]);
         $this->crud->addField([ // image
-            'label' => "Profile Image",
-            'name' => "image",
-            'type' => 'image',
-            'upload' => true,
-            'crop' => true, // set to true to allow cropping, false to disable
-            'aspect_ratio' => 1, // ommit or set to 0 to allow any aspect ratio
-            'fake' => true,
-            'store_in' => 'extras',
-        ]);
-        $this->crud->addField([ // image
             'label' => "Headline",
             'name' => "headline",
             'type' => 'text',
