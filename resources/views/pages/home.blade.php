@@ -1,4 +1,9 @@
 @extends('master')
+
+@section('page_title')
+    {{$page->meta_title}}
+@endsection
+
 @section('body')
     <div class="row">
         <div class="col-md-8 col-sm-7">
