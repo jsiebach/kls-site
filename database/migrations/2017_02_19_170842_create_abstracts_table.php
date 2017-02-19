@@ -19,7 +19,7 @@ class CreateAbstractsTable extends Migration
             $table->string('authors', 1020);
             $table->string('location_date', 1020);
             $table->string('details', 1020);
-            $table->string('link', 1020);
+            $table->string('link', 1020)->nullable();
             $table->timestamps();
         });
     }
