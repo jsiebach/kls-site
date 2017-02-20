@@ -44,8 +44,10 @@
         @endforeach
         </tbody>
     </table>
-        <a name="abstracts" style="margin-top: 200px;"> &nbsp;&nbsp;</a>
-    <h2 style="">First-Author Conference Abstracts</h2>
+        <a style="padding-top: 40px; margin-top: -40px;" name="abstracts">
+            &nbsp;
+        </a>
+            <h2>First-Author Conference Abstracts</h2>
     <table class="table table-hover table-striped publications">
         {{--<tbody v-for="section in firstAuthor">--}}
         {{--<tr><td style="text-align: center"><h2>{{section.section}}</h2></td></tr>--}}
