@@ -28,7 +28,7 @@
                 @if($pub->abstract)
                 <div id="abstract-{{$pub->id}}" style="display: none">
                     <br>
-                    <i><strong>Abstract:</strong> {{$pub->abstract}}</i>
+                    <i><strong>Abstract:</strong> {!! $pub->abstract !!}</i>
                 </div>
                 @endif
             </td>
@@ -53,11 +53,11 @@
             <td>
                 @if($abstract->link)
                 <p v-if="ab.link" style="font-size: 18px">
-                    <a class="" target="_blank" href="{{$abstract->link}}">{{$abstract->title}}</a>
+                    <a class="" target="_blank" href="{{$abstract->link}}">{!! $abstract->title !!}</a>
                 </p>
                 @else
                 <p v-else style="font-size: 18px">
-                    {{$abstract->title}}
+                    {!! $abstract->title !!}
                 </p>
                 @endif
                 <p>{!! $abstract->authors !!}</p>
