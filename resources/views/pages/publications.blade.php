@@ -6,7 +6,7 @@
 
 @section('body')
     @include('partials.page-title')
-    <h2>Peer Reviewed <small><a href="#abstracts" class="pull-right">Scroll to First Author Abstracts</a></small></h2>
+    <h2>Peer Reviewed <small><a href="#abstracts" class="pull-right">Scroll to First-Author Conference Abstracts</a></small></h2>
     <table class="table table-hover table-striped publications">
         <tbody v-for="section in publications">
         @foreach($publications as $title => $group)
@@ -44,7 +44,7 @@
         @endforeach
         </tbody>
     </table>
-        <a name="abstracts"> </a>
+        <a name="abstracts" style="margin-top: 200px;"> &nbsp;&nbsp;</a>
     <h2 style="">First-Author Conference Abstracts</h2>
     <table class="table table-hover table-striped publications">
         {{--<tbody v-for="section in firstAuthor">--}}
