@@ -36,7 +36,7 @@ class ComposerServiceProvider extends ServiceProvider
 			foreach($published as $key => $values){
 				$submitted->put($key, $values);
 			}
-			$abstracts = ScienceAbstract::all();
+			$abstracts = ScienceAbstract::orderBy('created_at', 'DESC');
 			$view->with(['publications' => $submitted, 'abstracts' => $abstracts]);
 		});
 	}
