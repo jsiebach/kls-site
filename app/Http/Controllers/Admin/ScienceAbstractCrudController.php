@@ -117,7 +117,7 @@ class ScienceAbstractCrudController extends CrudController
         //     $query->activePosts();
         // });
         // $this->crud->with(); // eager load relationships
-        // $this->crud->orderBy();
+        $this->crud->orderBy('created_at', 'DESC');
         // $this->crud->groupBy();
         // $this->crud->limit();
     }
