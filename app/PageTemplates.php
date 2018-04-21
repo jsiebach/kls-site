@@ -240,9 +240,10 @@ trait PageTemplates
             'columns' => [
                 'description' => 'Description',
                 'date' => 'Date',
-                'link' => 'Link'
+                'link' => 'Link',
+	            'feature' => 'Featured? (1 or 0)'
             ],
-            'max' => 100, // maximum rows allowed in the table
+            'max' => 1000, // maximum rows allowed in the table
             'min' => 0, // minimum rows allowed in the table
             'fake' => true,
             'store_in' => 'extras',

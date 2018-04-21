@@ -20,3 +20,11 @@ mix.combine([
 ], 'public/css/plugins.css');
 
 mix.version();
+
+mix.browserSync({
+  proxy: 'kirstensiebach.test',
+  files: [
+      'resources/views/**/*.php',
+      'public/**/*'
+  ]
+})
