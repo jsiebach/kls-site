@@ -241,7 +241,7 @@ trait PageTemplates
                 'description' => 'Description',
                 'date' => 'Date',
                 'link' => 'Link',
-	            'feature' => 'Featured? (1 or 0)'
+	            'feature' => 'Featured?'
             ],
             'max' => 1000, // maximum rows allowed in the table
             'min' => 0, // minimum rows allowed in the table
