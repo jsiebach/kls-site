@@ -6,13 +6,18 @@
 
 @section('body')
     @include('partials.page-title')
-
-    <p>{!! $page->intro !!}</p>
-    <div class="alert alert-info text-center">
-        {!! $page->cta !!}
-    </div>
-    <div class="thumbnail" style="width:60%;margin:0 20%">
-        <img src="/uploads/outreach/IMG_4975.jpg">
+    <div class="row">
+        <div class="col-md-7 col-sx-12">
+            <p>{!! $page->intro !!}</p>
+            <div class="alert alert-info text-center">
+                {!! $page->cta !!}
+            </div>
+        </div>
+        <div class="col-md-5 col-sx-12">
+            <div class="thumbnail" style="">
+                <img src="/uploads/outreach/IMG_4975.jpg">
+            </div>
+        </div>
     </div>
     <br>
     <h3>Recent Keynote Talks</h3>
@@ -58,8 +63,8 @@
             </div>
         </div>
     </div>
-<br><br>
-    <div style="width:60%;margin:0 20%">
+<br><br><br>
+    <div style="width:74%;margin:0 13%">
         <div class="slideshow">
             <ul class="bxslider">
                 <li><img src="/uploads/outreach/IMG_1157.jpg"></li>
