@@ -65,7 +65,7 @@
                 <li><img src="/uploads/outreach/IMG_1157.jpg"></li>
                 <li><img src="/uploads/outreach/IMG_1199.jpg"></li>
                 <li><img src="/uploads/outreach/2015-07-08 16.58.54.jpg"></li>
-                <li><img src="/uploads/outreach/2015-06-10 12.02.25.jpd"></li>
+                <li><img src="/uploads/outreach/2015-06-10 12.02.25.jpg"></li>
                 <li><img src="/uploads/outreach/photo 2.jpg"></li>
                 <li><img src="/uploads/outreach/Inspiring Visit.JPG"></li>
             </ul>
