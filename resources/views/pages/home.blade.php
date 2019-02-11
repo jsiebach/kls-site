@@ -5,6 +5,14 @@
 @endsection
 
 @section('body')
+    <div class="row video-callout" style="">
+        <div class="col-xs-12">
+            <div class="alert alert-success">
+                Watch my new video on YouTube, The Story of Gale Crater on Mars from the NASA Mars Curiosity Rover
+                <br><br><a href="https://www.youtube.com/watch?v=iMt7azVQsCs" target="_blank" class="button">Watch Now <i class="fa fa-play"></i></a><br><br>
+            </div>
+        </div>
+    </div>
     <div class="row">
         <div class="col-md-8 col-sm-7">
             <h1>{{$page->headline}}
