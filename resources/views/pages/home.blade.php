@@ -78,7 +78,7 @@
       "@type": "person",
       "name": "Kirsten Siebach",
       "url": "https://kirstensiebach.com",
-      "email": "kirsten.siebach@stonybrook.edu",
+      "email": "ksiebach@rice.edu",
       "image": "https://kirstensiebach.com/uploads/ks-profile-pic.jpg",
       "sameAs": [
           "http://orcid.org/0000-0002-6628-6297",
@@ -89,8 +89,8 @@
           "https://scholar.google.com/citations?hl=en&btnA=1&authorid=15489039706247508211&user=TU6sGpYAAAAJ",
           "https://plus.google.com/+KirstenSiebach"
       ],
-      "description": "Kirsten Siebach is a post-doctoral research associate at Stony Brook University working with Professor Scott McLennan to interpret the geochemistry of sedimentary rocks observed by the Mars Science Laboratory rover. She completed her PhD in Geology with Professor John Grotzinger at Caltech in May of 2016 with a dissertation titled “Formation and Diagenesis of Sedimentary Rocks in Gale Crater, Mars”. Prior to Caltech, she attended Washington University in St. Louis, where she worked with Professor Ray Arvidson and graduated summa cum laude with a B.A. in Earth & Planetary Science and Chemistry in 2011. She has been on the science teams for several recent NASA Mars missions, including the Phoenix Lander, Mars Exploration Rovers (Spirit and Opportunity), and the Mars Science Laboratory (Curiosity). Her research is focused on using diagenetic cement structures in sedimentary rocks, soil properties, and remote sensing to study the history of water on Mars.",
-      "jobTitle":"Postdoctoral Associate"
+      "description": "Kirsten Siebach is an Assistant Professor in the Rice University Department of Earth, Environmental, and Planetary Sciences. Her work focuses on understanding the history of water interacting with sediments on Mars and early Earth through analysis of sedimentary rock textures and chemistry. She is currently a member of the Science and Operations Teams for the Mars Exploration Rovers and the Mars Science Laboratory.",
+      "jobTitle":"Assistant Professor"
     }
      </script>
 @append
