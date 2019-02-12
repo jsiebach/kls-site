@@ -41,6 +41,13 @@
     <br>
     <h3>Videos</h3>
     <div class="row">
+        <div class="col-xs-12 col-md-8 col-md-offset-2 text-center"><br>
+            <h4>The Story of Gale Crater on Mars from the NASA Mars Curiosity Rover</h4>
+            <div class="videoWrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/iMt7azVQsCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <br><br>
+        </div>
         <div class="col-xs-12 col-lg-4 text-center">
             <h4>SBU Postdoc Spotlight 2017</h4>
             <div class="videoWrapper">
