@@ -1,6 +1,9 @@
 <?php
 
 return [
+	'lab_app_domain' => env('LAB_APP_DOMAIN', 'lab.kirstensiebach.com'),
+
+    'is_lab' => false,
 
     /*
     |--------------------------------------------------------------------------
@@ -183,6 +186,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         App\Providers\ComposerServiceProvider::class,
+        App\Providers\LabServiceProvider::class,
 
     ],
 
