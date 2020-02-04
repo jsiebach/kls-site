@@ -8,8 +8,8 @@
     <div class="row video-callout" style="">
         <div class="col-xs-12">
             <div class="alert alert-success">
-                We are looking for motivated students and postdoctoral scholars to join our lab and work on interesting problems relating to the sedimentary system on Mars and its record of ancient habitable environments! Please contact Kirsten directly to inquire about opportunities.
-                <br><br><a href="/lab" class="button">Check out the Siebach Lab home</a><br><br>
+                Watch my new video on YouTube, The Story of Gale Crater on Mars from the NASA Mars Curiosity Rover
+                <br><br><a href="https://www.youtube.com/watch?v=iMt7azVQsCs" target="_blank" class="button">Watch Now <i class="fa fa-play"></i></a><br><br>
             </div>
         </div>
     </div>
@@ -19,7 +19,16 @@
                 <small><i>{{$page->subheadline}}</i></small>
             </h1>
             <hr>
-            <img class="banner" src="/uploads/team/banner.jpg" alt="">
+            <div class="slideshow">
+                <ul class="bxslider">
+                    <li><img src="uploads/slider/Kirsten-Siebach_Caltech_Graduation_2016.jpg" title="Caltech Graduation - 2016"></li>
+                    <li><img src="uploads/slider/Kirsten-Siebach_LA_with_family.jpg" title="Touring Los Angeles with family - 2016"></li>
+                    <li><img src="uploads/slider/Kirsten-Siebach_Giants_Causeway_Northern_Ireland.jpg" title="Giants Causeway, Northern Ireland – 2015"></li>
+                    <li><img src="uploads/slider/Kirsten-Siebach_Singapore_Skyline.jpg" title="Singapore Skyline – 2015"></li>
+                    <li><img src="uploads/slider/Kirsten-Siebach_Big_Sur_California.jpg" title="California Coast – 2015"></li>
+                    <li><img src="uploads/slider/Kirsten-Siebach_Svinafellsjokul_Glacier_Iceland.jpg" title="Hiking Svinafellsjokul Glacier, Iceland – 2014"></li>
+                </ul>
+            </div>
             <div>
                 <h3>Bio</h3>
                 <p>{!! $page->bio !!}</p>

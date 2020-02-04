@@ -432,4 +432,57 @@ trait PageTemplates
             'store_in' => 'extras',
         ]);
     }
+
+	private function lab(  ) {
+		$this->crud->addField([   // CustomHTML
+			'name' => 'metas_separator',
+			'type' => 'custom_html',
+			'value' => '<br><h2>Metas</h2><hr>',
+		]);
+		$this->crud->addField([
+			'name' => 'meta_title',
+			'label' => 'Meta Title',
+			'fake' => true,
+			'store_in' => 'extras',
+		]);
+		$this->crud->addField([
+			'name' => 'meta_description',
+			'label' => 'Meta Description',
+			'fake' => true,
+			'store_in' => 'extras',
+		]);
+		$this->crud->addField([
+			'name' => 'meta_keywords',
+			'type' => 'textarea',
+			'label' => 'Meta Keywords',
+			'fake' => true,
+			'store_in' => 'extras',
+		]);
+		$this->crud->addField([   // CustomHTML
+			'name' => 'content_separator',
+			'type' => 'custom_html',
+			'value' => '<br><h2>Content</h2><hr>',
+		]);
+		$this->crud->addField([
+			'name' => 'content',
+			'label' => 'Content',
+			'type' => 'wysiwyg',
+			'placeholder' => 'Your content here',
+		]);
+        $this->crud->addField([ // Table
+            'name' => 'team_members',
+            'label' => 'Team Members',
+            'type' => 'table',
+            'entity_singular' => 'team member', // used on the "Add X" button
+            'columns' => [
+                'name' => 'Name',
+                'bio' => 'Bio',
+                'image' => 'Image',
+            ],
+            'max' => 10, // maximum rows allowed in the table
+            'min' => 0, // minimum rows allowed in the table
+            'fake' => true,
+            'store_in' => 'extras',
+        ]);
+    }
 }
