@@ -10,6 +10,10 @@
         <changefreq>daily</changefreq>
     </url>
     <url>
+        <loc>https://kirstensiebach.com/lab</loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
         <loc>https://kirstensiebach.com/research</loc>
         <changefreq>daily</changefreq>
     </url>
@@ -30,8 +34,8 @@
         <changefreq>daily</changefreq>
     </url>
     <url>
-        <loc>https://kirstensiebach.com/uploads/Siebach_CV_11-30-2016.pdf</loc>
-        <lastmod>2017-02-19T17:53:48+00:00</lastmod>
+        <loc>https://kirstensiebach.com/uploads/Siebach_CV_11-5-2019.pdf</loc>
+        <lastmod>2019-12-19T17:53:48+00:00</lastmod>
         <changefreq>daily</changefreq>
     </url>
 </urlset>
