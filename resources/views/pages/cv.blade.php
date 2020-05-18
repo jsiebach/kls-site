@@ -6,7 +6,7 @@
 
 @section('body')
     <div class="resume">
-        <a class="btn btn-success pull-right" href="/uploads/Siebach_CV_2-10-2020.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Download PDF</a>
+        <a class="btn btn-success pull-right" href="/uploads/Siebach_CV_5-18-2020.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Download PDF</a>
         @include('partials.page-title')
         <h2>Education</h2>
         <ul>
