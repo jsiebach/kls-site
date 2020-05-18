@@ -41,7 +41,7 @@
     <div class="row">
         <div class="col-md-6">
             <h3>Ross Kovtun</h3>
-            <h5>ross.kovtun@rice.edu</h5>
+            <h5>Rostislan.Kovtun@rice.edu</h5>
             <p>Ross Kovtun is a graduate student at the Department of Earth, Environmental, and Planetary Sciences at Rice University. Ross received his M.S. in Geology at California State University, Fullerton where he worked on reconstructing paleoenvironments through sedimentary proxies.  When he is not thinking about rocks, Ross enjoys reading science fiction and classic literature, playing pickup basketball, watching obscure films, and going on adventures with his family and dog.</p>
             <p>Ross’ research interests lie in understanding sedimentary process on Mars and utilizing terrestrial analogs to help explain outstanding questions about the sedimentologic history of the red planet.  Specifically, Ross is investigating the influence of groundwater on the sedimentary deposits within Gale Crater by cataloguing distinct diagenetic features observed by the Curiosity rover, as well as preceding rover missions. Additionally, Ross is working on a proxy system model (PSM) in order to characterize the lake that existed within the Gale crater on ancient Mars. 
             </p>
