@@ -7,11 +7,11 @@
 @section('body')
     @include('partials.page-title')
 
-    <img style="width: 80%; height: auto; margin-left: 10%;" src="/uploads/team/banner.jpg" alt="">
+    <img style="width: 80%; height: auto; margin-left: 10%;" src="/uploads/team/banner-2020.jpg" alt="">
     <br>
     <br>
     <p>Welcome to the Siebach Lab website! We study the history of surface environments and water on Mars and early Earth using the stories recorded in sedimentary rocks. We are particularly interested in understanding the sedimentary cycle on Mars and comparing it to the terrestrial sedimentary cycle in order to better understand the uniqueness of Earth and the ancient habitable environments of Mars. We use imaging, geochemical, and mineralogical data from Martian spacecraft, especially rovers, along with data collected at analogous sites on Earth and visualization techniques to gain understanding of these systems.</p>
-    
+
     <h2>Lab Team</h2>
     <hr>
     <div class="row">
@@ -43,7 +43,7 @@
             <h3>Ross Kovtun</h3>
             <h5>Rostislan.Kovtun@rice.edu</h5>
             <p>Ross Kovtun is a graduate student at the Department of Earth, Environmental, and Planetary Sciences at Rice University. Ross received his M.S. in Geology at California State University, Fullerton where he worked on reconstructing paleoenvironments through sedimentary proxies.  When he is not thinking about rocks, Ross enjoys reading science fiction and classic literature, playing pickup basketball, watching obscure films, and going on adventures with his family and dog.</p>
-            <p>Ross’ research interests lie in understanding sedimentary process on Mars and utilizing terrestrial analogs to help explain outstanding questions about the sedimentologic history of the red planet.  Specifically, Ross is investigating the influence of groundwater on the sedimentary deposits within Gale Crater by cataloguing distinct diagenetic features observed by the Curiosity rover, as well as preceding rover missions. Additionally, Ross is working on a proxy system model (PSM) in order to characterize the lake that existed within the Gale crater on ancient Mars. 
+            <p>Ross’ research interests lie in understanding sedimentary process on Mars and utilizing terrestrial analogs to help explain outstanding questions about the sedimentologic history of the red planet.  Specifically, Ross is investigating the influence of groundwater on the sedimentary deposits within Gale Crater by cataloguing distinct diagenetic features observed by the Curiosity rover, as well as preceding rover missions. Additionally, Ross is working on a proxy system model (PSM) in order to characterize the lake that existed within the Gale crater on ancient Mars.
             </p>
         </div>
         <div class="col-md-6">
