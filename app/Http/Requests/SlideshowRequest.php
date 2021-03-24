@@ -3,8 +3,9 @@
 namespace App\Http\Requests;
 
 use App\Http\Requests\Request;
+use Illuminate\Foundation\Http\FormRequest;
 
-class SlideshowRequest extends \Backpack\CRUD\app\Http\Requests\CrudRequest
+class SlideshowRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
