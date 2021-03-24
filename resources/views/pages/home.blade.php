@@ -38,7 +38,7 @@
         <div class="col-md-4 col-sm-5">
             <div class="text-center">
                 <div class="thumbnail" style="border: none;margin-bottom:5px;">
-                    <img class="img-circle" src="/uploads/ks-profile-pic.jpg" style="width:80%;margin-top:20px;">
+                    <img class="img-circle" src="/uploads/ks-profile-pic-new.jpg" style="width:80%;margin-top:20px;">
                 </div>
                 <div class="panel-body">
                     <p>
