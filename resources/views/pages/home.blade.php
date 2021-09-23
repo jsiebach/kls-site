@@ -8,8 +8,8 @@
     <div class="row video-callout" style="">
         <div class="col-xs-12">
             <div class="alert alert-success">
-                We are looking for motivated students and postdoctoral scholars to join our lab and work on interesting problems relating to the sedimentary system on Mars and its record of ancient habitable environments! Please contact Kirsten directly to inquire about opportunities.
-                <br><br><a href="/lab" class="button">Check out the Siebach Lab home</a><br><br>
+                I am so excited to share my new online short course for Fall 2021, open to the public and anyone interested in learning more about the past, present, and future of Mars exploration! The class will run September 30-December 10 with live zoom sessions Oct. 14, 28, and Nov. 11. Find more information and sign up for "Missions to Mars: Exploration of the Red Planet" at the link below!
+                <br><br><a href="https://glasscock.rice.edu/course?id=36701387" target="_blank" class="button">Explore the Course</a><br><br>
             </div>
         </div>
     </div>
