@@ -17,6 +17,7 @@
   "dependencies": {
     "bootstrap-datepicker": "^1.9.0",
     "font-awesome": "^4.7.0",
-    "jquery-ui": "^1.12.1"
+    "jquery-ui": "^1.12.1",
+    "sweetalert": "^2.1.2"
   }
 }

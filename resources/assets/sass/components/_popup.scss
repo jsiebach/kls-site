@@ -1,0 +1,41 @@
+.modal-dialog {
+  padding-top: 15%;
+}
+
+.class-modal .modal-content {
+  background-color: $brand-primary;
+  color: white;
+  border-radius: 0;
+
+  & .close {
+    color: white;
+    opacity: 1;
+    font-size: 32px;
+  }
+
+  & h5 {
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+  }
+
+  & .course-intro {
+
+  }
+
+  & .course-details {
+
+  }
+
+  & .modal-header {
+    border-bottom: none;
+  }
+  & .modal-footer {
+    border-top: none;
+    width: 100%;
+
+    & .close {
+      text-align: left;
+    }
+  }
+}

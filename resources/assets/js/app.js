@@ -29,3 +29,13 @@ $('.bxslider').bxSlider({
     auto:true,
     pause:6000
 });
+
+$(window).on('load',function(){
+    setTimeout(function(){
+        if (!sessionStorage.getItem('shown-modal')){
+            $('#class-signup').modal()
+            sessionStorage.setItem('shown-modal', 'true');
+        }
+    }, 3000);
+
+});
