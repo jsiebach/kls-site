@@ -16,6 +16,18 @@
     <hr>
     <div class="row">
         <div class="col-md-6">
+            <img style="max-width: 100%; height: auto;" src="/uploads/team/Patagonia_picture.jpg" alt="">
+        </div>
+        <div class="col-md-6">
+            <h3>Eleanor (Ellie) Moreland</h3>
+            <h5>morelandellie@rice.edu</h5>
+            <p>Ellie Moreland is a graduate student in the Department of Earth, Environmental, and Planetary Sciences at Rice University. Ellie received her B.A. in Geology from Washington University in St. Louis where she worked with remote sensing data to understand the composition of Martian sand deposits. Outside of academics Ellie loves working out and staying active, spending time in the outdoors, and hanging out with her cat.</p>
+            <p>Ellie’s research interests lie in combining methodology from computer science, math, chemistry, and mineralogy (and more!) to better understand the current composition and condition of Mars’ surface. During her first year, Ellie is working on algorithm for analyzing data returned from the PIXEL instrument on the Mars 2020 Perseverance rover. Going forward, she hopes to continue using data and developing methods from here on Earth to use in conjunction with remote sensing data from Mars to fill fundamental gaps in the understanding of the planet.</p>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-md-6">
             <h3>Valerie Payre</h3>
             <h5>vpayre@rice.edu</h5>
             <p>Valerie is a Weiss Postdoctoral Research Fellow in DEEPS, working with Kirsten on martian magmatic and surface processes. She did her Ph.D in geosciences at Université de Lorraine in Nancy, France, and get her bachelor's and master's degree in geochemistry at Ecole Normale Supérieure (ENS) Ulm in Paris, France. She loves fitness, running, dancing, and traveling all around the world, discovering new cultures and new geological histories.</p>
