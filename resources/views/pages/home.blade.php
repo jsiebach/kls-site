@@ -8,8 +8,8 @@
     <div class="row video-callout" style="">
         <div class="col-xs-12">
             <div class="alert alert-success">
-                I am so excited to share my new online short course for Fall 2021, open to the public and anyone interested in learning more about the past, present, and future of Mars exploration! The class will run September 30-December 10 with live zoom sessions Oct. 14, 28, and Nov. 11. Find more information and sign up for "Missions to Mars: Exploration of the Red Planet" at the link below!
-                <br><br><a href="https://glasscock.rice.edu/course?id=36701387" target="_blank" class="button">Explore the Course</a><br><br>
+                Do you work with high resolution geochemical data? We have a new model that automates the process of identifying stoichiometric minerals within geochemical datasets. Read more and try it out with your own dataset here
+                <br><br><a href="https://mist.rice.edu/" target="_blank" class="button">Read More</a><br><br>
             </div>
         </div>
     </div>
